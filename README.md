@@ -9,10 +9,10 @@
 📱 Mobile Expertise:
 
 Android: Kotlin, Java, Jetpack Compose, MVVM
-Multiplatform: Kotlin Multiplatform
-Testing & QA: JUnit, UI Testing
-API Integration: RESTful APIs, third-party SDKs
-UI/UX Collaboration: Working closely with designers to deliver polished apps
+<br>Multiplatform: Kotlin Multiplatform
+<br>Testing & QA: JUnit, UI Testing
+<br>API Integration: RESTful APIs, third-party SDKs
+<br>UI/UX Collaboration: Working closely with designers to deliver polished apps
 
 💡 Passionate Learner:
 Passionate about continuous learning and staying current with evolving technologies, currently exploring Kotlin Multiplatform (KMP) to extend cross-platform development capabilities while maintaining a strong foundation in native Android development.
