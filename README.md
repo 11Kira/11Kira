@@ -5,6 +5,7 @@
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
 👋 Hi, I'm an Android Developer with expertise in Kotlin and Java, focused on building scalable, high-performance mobile applications with clean, maintainable code. Experienced in applying MVVM design patterns and Clean Architecture principles to deliver robust and user-centric Android solutions.
+<br><br>Proficient in Android UI development using XML, with additional experience building modern interfaces using Jetpack Compose through personal projects. Skilled in API integration and backend development using Kotlin, Spring Boot, and MongoDB, providing a comprehensive understanding of both mobile and server-side development.
 
 📱 Mobile Expertise:
 
