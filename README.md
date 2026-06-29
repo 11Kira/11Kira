@@ -34,7 +34,7 @@ Let's connect and dive deep into all things tech! 💻💬
 
 <p>
   <img loading="lazy" src="./images/spring_boot_logo.png"  height="40">
-  <img loading="lazy" src="./images/mongodb_logo.png"  height="40">
+  <img loading="lazy" src="./images/mongodb_logo.svg"  height="40">
   <img loading="lazy" src="./images/intellij-idea_logo.png"  height="40">
   <img loading="lazy" src="./images/github.svg" height="40">
   <img loading="lazy" src="./images/postman_logo.png" height="40">
