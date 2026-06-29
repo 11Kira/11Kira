@@ -1,7 +1,5 @@
 # Hi, I'm Julius Villagracia 👋🏽
 
-<img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.jpg" style="max-width: 100%;" />
-
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
 👋 Hi, I'm an Android Developer with expertise in Kotlin and Java, focused on building scalable, high-performance mobile applications with clean, maintainable code. Experienced in applying MVVM design patterns and Clean Architecture principles to deliver robust and user-centric Android solutions.
