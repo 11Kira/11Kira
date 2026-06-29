@@ -42,3 +42,8 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/git_logo.png" height="40">
   <img loading="lazy" src="./images/firebase_logo.png"  height="40">
 </p>
+
+## 🧩 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipe&theme=radical)](https://github.com/11Kira/FilipinoRecipe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeAPI&theme=radical)](https://github.com/11Kira/FilipinoRecipeAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeKMP&theme=radical)](https://github.com/11Kira/FilipinoRecipeKMP)
