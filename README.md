@@ -44,7 +44,20 @@ Let's connect and dive deep into all things tech! 💻💬
 </p>
 
 ## 🧩 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipe&theme=radical)](https://github.com/11Kira/FilipinoRecipe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeAPI&theme=radical)](https://github.com/11Kira/FilipinoRecipeAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeKMP&theme=radical)](https://github.com/11Kira/FilipinoRecipeKMP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=11Kira&repo=CinemaDB&theme=radical)](https://github.com/11Kira/CinemaDB)
+<p>
+        <a href="https://github.com/11Kira/FilipinoRecipe">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipe&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+        <a href="https://github.com/11Kira/FilipinoRecipeAPI">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeAPI&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+</p>
+<p>
+        <a href="https://github.com/11Kira/FilipinoRecipeKMP">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeKMP&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+        <a href="https://github.com/11Kira/CinemaDB">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=11Kira&repo=CinemaDB&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+</p>
+      
