@@ -31,9 +31,7 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/insert_koin_logo.png"  height="40">
   <img loading="lazy" src="./images/ktor_logo.png"  height="40">
   <img loading="lazy" src="./images/java_logo.png"  height="40">
-</p>
 
-<p>
   <img loading="lazy" src="./images/spring_boot_logo.png"  height="40">
   <img loading="lazy" src="./images/mongodb_logo.svg"  height="40">
   <img loading="lazy" src="./images/intellij-idea_logo.png"  height="40">
