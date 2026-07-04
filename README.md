@@ -44,19 +44,18 @@ Let's connect and dive deep into all things tech! 💻💬
 </p>
 
 ## 🧩 Featured Projects
-<p>
+
 <a href="https://github.com/11Kira/FilipinoRecipeKMP">
-          <img align="center" width="470" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeKMP&theme=merko" />
+          <img align="center" width="500" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeKMP&theme=merko" />
 </a>
 <a href="https://github.com/11Kira/FilipinoRecipeAPI">
-          <img align="center" width="470" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeAPI&theme=radical" />
+          <img align="center" width="500" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipeAPI&theme=radical" />
         </a>
-</p>
-<p>
-        <a href="https://github.com/11Kira/FilipinoRecipe">
-          <img align="center" width="470" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipe&theme=cobalt" />
+
+
+  <a href="https://github.com/11Kira/FilipinoRecipe">
+          <img align="center" width="500" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=FilipinoRecipe&theme=cobalt" />
         </a>
         <a href="https://github.com/11Kira/CinemaDB">
-          <img align="center" width="470" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=CinemaDB&theme=tokyonight" />
+          <img align="center" width="500" src="https://github-stats-extended.vercel.app/api/pin/?username=11Kira&repo=CinemaDB&theme=tokyonight" />
         </a>
-</p>
