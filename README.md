@@ -43,6 +43,7 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/github.svg" height="40">
   <img loading="lazy" src="./images/github_actions.png" height="40">
   <img loading="lazy" src="./images/ci_cd.png" height="40">
+  <img loading="lazy" src="./images/google-play-console.png" height="40">
   <img loading="lazy" src="./images/postman_logo.png" height="40">
   <img loading="lazy" src="./images/git_logo.png" height="40">
   <img loading="lazy" src="./images/firebase_logo.png"  height="40">
